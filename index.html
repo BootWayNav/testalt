@@ -3,113 +3,86 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Indoor Floor Detection</title>
+    <title>Floor Detection Web App</title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            margin: 20px;
+            text-align: center;
+            margin: 50px;
         }
-        #result {
-            margin-top: 20px;
-            padding: 10px;
-            border: 1px solid #ccc;
-            width: 100%;
-            max-width: 300px;
+        .container {
+            max-width: 400px;
+            margin: auto;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
         }
+        h1 { font-size: 24px; }
+        p { font-size: 18px; margin: 10px 0; }
         button {
-            padding: 10px 20px;
-            margin: 10px 0;
+            padding: 10px 15px;
+            font-size: 16px;
+            border: none;
+            background: blue;
+            color: white;
+            cursor: pointer;
+            border-radius: 5px;
         }
     </style>
 </head>
 <body>
-    <h1>Indoor Floor Detection</h1>
-
-    <!-- Buttons for saving ground floor and getting current floor -->
-    <button onclick="saveGroundFloor()">Set Ground Floor</button>
-    <button onclick="getLocation()">Estimate Current Floor</button>
-
-    <div id="result">Waiting for location...</div>
+    <div class="container">
+        <h1>Floor Detection System</h1>
+        <p><b>Current Floor:</b> <span id="floor">0</span></p>
+        <p><b>Pressure (hPa):</b> <span id="pressure">--</span></p>
+        <p><b>Vertical Acceleration (m/s²):</b> <span id="acceleration">--</span></p>
+        <button onclick="calibrate()">Calibrate at Ground Floor</button>
+    </div>
 
     <script>
-        var groundAltitude = null; // Store ground floor altitude
-        var altitudeThreshold = 2; // Threshold for floor difference in meters
+        let basePressure = null; // To store reference pressure at ground floor
+        const floorHeight = 3; // Approximate height of one floor in meters
+        const pressureDropPerFloor = 0.12; // Pressure drop per floor in hPa (12 Pa)
 
-        // Save the ground floor altitude when the user is on the ground floor
-        function saveGroundFloor() {
-            if (navigator.geolocation) {
-                navigator.geolocation.getCurrentPosition(function(position) {
-                    groundAltitude = position.coords.altitude;
-                    document.getElementById("result").innerHTML = "Ground floor altitude set to " + groundAltitude.toFixed(2) + " meters.";
-                }, showError);
+        // Function to update UI
+        function updateUI(floor, pressure, acceleration) {
+            document.getElementById("floor").innerText = floor;
+            document.getElementById("pressure").innerText = pressure.toFixed(2);
+            document.getElementById("acceleration").innerText = acceleration.toFixed(2);
+        }
+
+        // Calibrate the base pressure (assume starting position as Floor 0)
+        function calibrate() {
+            if (basePressure !== null) {
+                alert("Recalibrated! Starting floor set to 0.");
             } else {
-                document.getElementById("result").innerHTML = "Geolocation is not supported by this browser.";
+                alert("Calibrated! Starting floor set to 0.");
             }
         }
 
-        // Get current location and estimate the floor based on the saved ground floor altitude
-        function getLocation() {
-            if (navigator.geolocation) {
-                navigator.geolocation.getCurrentPosition(function(position) {
-                    if (groundAltitude !== null) {
-                        var altitude = position.coords.altitude;
-                        var floor = estimateFloor(altitude);
-                        document.getElementById("result").innerHTML = "Current altitude: " + altitude.toFixed(2) + " meters<br>You're on the " + floor + " floor.";
-                    } else {
-                        document.getElementById("result").innerHTML = "Please set the ground floor first.";
-                    }
-                }, showError);
-            } else {
-                document.getElementById("result").innerHTML = "Geolocation is not supported by this browser.";
-            }
+        // Barometer Sensor (Detects Air Pressure)
+        if ("Barometer" in window) {
+            let barometer = new Barometer({ frequency: 1 });
+            barometer.addEventListener("reading", () => {
+                if (basePressure === null) basePressure = barometer.pressure;
+                let floorChange = (basePressure - barometer.pressure) / pressureDropPerFloor;
+                floorChange = Math.round(floorChange); // Round to nearest floor
+                updateUI(floorChange, barometer.pressure, 0);
+            });
+            barometer.start();
+        } else {
+            alert("Barometer not supported on this device.");
         }
 
-        // Error handling for geolocation
-        function showError(error) {
-            switch(error.code) {
-                case error.PERMISSION_DENIED:
-                    document.getElementById("result").innerHTML = "User denied the request for Geolocation.";
-                    break;
-                case error.POSITION_UNAVAILABLE:
-                    document.getElementById("result").innerHTML = "Location information is unavailable.";
-                    break;
-                case error.TIMEOUT:
-                    document.getElementById("result").innerHTML = "The request to get user location timed out.";
-                    break;
-                case error.UNKNOWN_ERROR:
-                    document.getElementById("result").innerHTML = "An unknown error occurred.";
-                    break;
-            }
-        }
-
-        // Estimate the current floor based on altitude and ground floor reference
-        function estimateFloor(currentAltitude) {
-            if (groundAltitude === null) {
-                return "Ground floor not set.";
-            }
-
-            // Calculate the difference in altitude from the ground floor
-            var floorDifference = currentAltitude - groundAltitude;
-
-            // If the difference is within the threshold, assume the same floor
-            if (Math.abs(floorDifference) < altitudeThreshold) {
-                return "Ground floor"; // Treat small differences as ground floor (same floor)
-            }
-
-            // Define floor height range (you can adjust these values)
-            var floorHeight = 3; // Assume each floor is approximately 3 meters high
-
-            // Calculate floor number (rounding based on floor height)
-            var floor = Math.floor(floorDifference / floorHeight);
-
-            // If negative or very small altitude difference, return "Ground" floor
-            if (floor < 0) {
-                return "Ground floor";
-            } else if (floor === 0) {
-                return "Ground floor";
-            } else {
-                return (floor + 1) + " floor";
-            }
+        // Accelerometer Sensor (Detects Vertical Movement)
+        if ("Accelerometer" in window) {
+            let accelerometer = new Accelerometer({ frequency: 10 });
+            accelerometer.addEventListener("reading", () => {
+                updateUI(document.getElementById("floor").innerText, parseFloat(document.getElementById("pressure").innerText), accelerometer.z);
+            });
+            accelerometer.start();
+        } else {
+            alert("Accelerometer not supported on this device.");
         }
     </script>
 </body>
