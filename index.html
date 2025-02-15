@@ -33,6 +33,7 @@
 
     <script>
         var groundAltitude = null; // Store ground floor altitude
+        var altitudeThreshold = 2; // Threshold for floor difference in meters
 
         // Save the ground floor altitude when the user is on the ground floor
         function saveGroundFloor() {
@@ -89,6 +90,11 @@
 
             // Calculate the difference in altitude from the ground floor
             var floorDifference = currentAltitude - groundAltitude;
+
+            // If the difference is within the threshold, assume the same floor
+            if (Math.abs(floorDifference) < altitudeThreshold) {
+                return "Ground floor"; // Treat small differences as ground floor (same floor)
+            }
 
             // Define floor height range (you can adjust these values)
             var floorHeight = 3; // Assume each floor is approximately 3 meters high
