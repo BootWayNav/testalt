@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Indoor Floor Detection</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        #result {
+            margin-top: 20px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            width: 100%;
+            max-width: 300px;
+        }
+        button {
+            padding: 10px 20px;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Indoor Floor Detection</h1>
+
+    <!-- Buttons for saving ground floor and getting current floor -->
+    <button onclick="saveGroundFloor()">Set Ground Floor</button>
+    <button onclick="getLocation()">Estimate Current Floor</button>
+
+    <div id="result">Waiting for location...</div>
+
+    <script>
+        var groundAltitude = null; // Store ground floor altitude
+
+        // Save the ground floor altitude when the user is on the ground floor
+        function saveGroundFloor() {
+            if (navigator.geolocation) {
+                navigator.geolocation.getCurrentPosition(function(position) {
+                    groundAltitude = position.coords.altitude;
+                    document.getElementById("result").innerHTML = "Ground floor altitude set to " + groundAltitude.toFixed(2) + " meters.";
+                }, showError);
+            } else {
+                document.getElementById("result").innerHTML = "Geolocation is not supported by this browser.";
+            }
+        }
+
+        // Get current location and estimate the floor based on the saved ground floor altitude
+        function getLocation() {
+            if (navigator.geolocation) {
+                navigator.geolocation.getCurrentPosition(function(position) {
+                    if (groundAltitude !== null) {
+                        var altitude = position.coords.altitude;
+                        var floor = estimateFloor(altitude);
+                        document.getElementById("result").innerHTML = "Current altitude: " + altitude.toFixed(2) + " meters<br>You're on the " + floor + " floor.";
+                    } else {
+                        document.getElementById("result").innerHTML = "Please set the ground floor first.";
+                    }
+                }, showError);
+            } else {
+                document.getElementById("result").innerHTML = "Geolocation is not supported by this browser.";
+            }
+        }
+
+        // Error handling for geolocation
+        function showError(error) {
+            switch(error.code) {
+                case error.PERMISSION_DENIED:
+                    document.getElementById("result").innerHTML = "User denied the request for Geolocation.";
+                    break;
+                case error.POSITION_UNAVAILABLE:
+                    document.getElementById("result").innerHTML = "Location information is unavailable.";
+                    break;
+                case error.TIMEOUT:
+                    document.getElementById("result").innerHTML = "The request to get user location timed out.";
+                    break;
+                case error.UNKNOWN_ERROR:
+                    document.getElementById("result").innerHTML = "An unknown error occurred.";
+                    break;
+            }
+        }
+
+        // Estimate the current floor based on altitude and ground floor reference
+        function estimateFloor(currentAltitude) {
+            if (groundAltitude === null) {
+                return "Ground floor not set.";
+            }
+
+            // Calculate the difference in altitude from the ground floor
+            var floorDifference = currentAltitude - groundAltitude;
+
+            // Define floor height range (you can adjust these values)
+            var floorHeight = 3; // Assume each floor is approximately 3 meters high
+
+            // Calculate floor number (rounding based on floor height)
+            var floor = Math.floor(floorDifference / floorHeight);
+
+            // If negative or very small altitude difference, return "Ground" floor
+            if (floor < 0) {
+                return "Ground floor";
+            } else if (floor === 0) {
+                return "Ground floor";
+            } else {
+                return (floor + 1) + " floor";
+            }
+        }
+    </script>
+</body>
+</html>
