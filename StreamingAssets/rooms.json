@@ -1,17 +1,36 @@
 {
     "rooms": [
-        {},
         {
-            "comment": "",
-            "department": "",
+            "uniqueID": "R209",
+            "roomNumber": "1",
+            "roomName": "Main Gate - मुख्य द्वार",
             "designatedPerson": "",
+            "comment": "",
+            "positionConstraints": {
+                "x": 239.2,
+                "y": 0.7,
+                "z": 124.1
+            },
             "floorNumber": "F0",
-            "isAvailable": "ATrue",
-            "positionConstraints": "{'x': 51.57, 'y': 0.7, 'z': -24.35}",
-            "roomName": "Society Office - सोसायटी कार्यालय",
+            "department": "",
+            "isAvailable": true,
+            "suggestions": "mukhya dwaar, mukhya dwar, main gate, main door, mukhya dvar, mukhy dwar"
+        },
+        {
+            "uniqueID": "R210",
             "roomNumber": "2",
-            "suggestions": "society office, सोसायटी कार्यालय, samaj karyalaya, samaj office",
-            "uniqueID": "R2100"
+            "roomName": "Society Office - सोसायटी कार्यालय",
+            "designatedPerson": "",
+            "comment": "",
+            "positionConstraints": {
+                "x": 51.57,
+                "y": 0.7,
+                "z": -24.35
+            },
+            "floorNumber": "F0",
+            "department": "",
+            "isAvailable": true,
+            "suggestions": "society office, सोसायटी कार्यालय, samaj karyalaya, samaj office"
         },
         {
             "uniqueID": "R211",
