@@ -4,14 +4,14 @@
             "uniqueID": "R209",
             "roomNumber": 1,
             "roomName": "Main Gate - मुख्य द्वार",
-            "designatedPerson": "(empty)",
-            "comment": "(empty)",
+            "designatedPerson": "",
+            "comment": "",
             "positionConstraints": "{",
             "floorNumber": "F0",
-            "department": "(empty)",
-            "isAvailable": "True",
+            "department": "",
+            "isAvailable": false,
             "suggestions": "mukhya dwaar, mukhya dwar, main gate, main door, mukhya dvar, mukhy dwar",
-            "rotationConstraints": "(empty)"
+            "rotationConstraints": ""
         },
         {
             "uniqueID": "R2100",
