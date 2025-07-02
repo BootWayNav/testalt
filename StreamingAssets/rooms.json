@@ -43,7 +43,7 @@
             },
             "floorNumber": "F0",
             "department": "",
-            "isAvailable": "Yes",
+            "isAvailable": true,
             "suggestions": "mp office, सांसद कार्यालय, sansad karyalay, manju sharma",
             "rotationConstraints": {
                 "x": 0,
