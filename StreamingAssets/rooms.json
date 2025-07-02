@@ -14,21 +14,21 @@
             "rotationConstraints": "(empty)"
         },
         {
-            "rotationConstraints": "(empty)",
-            "roomName": "Society Office - सोसायटी कार्यालय",
-            "department": "(empty)",
-            "comment": "(empty)",
-            "designatedPerson": "(empty)",
-            "isAvailable": "Yes",
-            "suggestions": "society office, सोसायटी कार्यालय, samaj karyalaya, samaj office",
-            "floorNumber": "F0",
-            "roomNumber": 2,
             "uniqueID": "R2100",
+            "roomNumber": 2,
+            "roomName": "Society Office - सोसायटी कार्यालय",
+            "designatedPerson": "(empty)",
+            "comment": "(empty)",
             "positionConstraints": {
                 "x": 51.57,
                 "y": 0.7,
                 "z": -24.35
-            }
+            },
+            "floorNumber": "F0",
+            "department": "",
+            "isAvailable": "Yes",
+            "suggestions": "society office, सोसायटी कार्यालय, samaj karyalaya, samaj office",
+            "rotationConstraints": "(empty)"
         },
         {
             "uniqueID": "R211",
