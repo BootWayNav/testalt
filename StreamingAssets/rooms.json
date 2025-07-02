@@ -1,21 +1,6 @@
 {
     "rooms": [
-        {
-            "uniqueID": "R209",
-            "roomNumber": "1",
-            "roomName": "Main Gate - \u092e\u0941\u0916\u094d\u092f \u0926\u094d\u0935\u093e\u0930",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 239.2,
-                "y": 0.7,
-                "z": 124.1
-            },
-            "floorNumber": "F0",
-            "department": "",
-            "isAvailable": "false",
-            "suggestions": "mukhya dwaar, mukhya dwar, main gate, main door, mukhya dvar, mukhy dwar"
-        },
+        {},
         {
             "uniqueID": "R210",
             "roomNumber": "2",
