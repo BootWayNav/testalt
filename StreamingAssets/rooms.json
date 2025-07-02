@@ -2,20 +2,23 @@
     "rooms": [
         {
             "uniqueID": "R209",
-            "roomNumber": 1,
+            "roomNumber": "1",
             "roomName": "Main Gate - मुख्य द्वार",
             "designatedPerson": "",
             "comment": "",
-            "positionConstraints": "{",
+            "positionConstraints": {
+                "x": 239.2,
+                "y": 0.7,
+                "z": 124.1
+            },
             "floorNumber": "F0",
             "department": "",
             "isAvailable": true,
-            "suggestions": "mukhya dwaar, mukhya dwar, main gate, main door, mukhya dvar, mukhy dwar",
-            "rotationConstraints": ""
+            "suggestions": "mukhya dwaar, mukhya dwar, main gate, main door, mukhya dvar, mukhy dwar"
         },
         {
-            "uniqueID": "R2100",
-            "roomNumber": 2,
+            "uniqueID": "R210",
+            "roomNumber": "2",
             "roomName": "Society Office - सोसायटी कार्यालय",
             "designatedPerson": "",
             "comment": "",
@@ -27,12 +30,11 @@
             "floorNumber": "F0",
             "department": "",
             "isAvailable": true,
-            "suggestions": "society office, सोसायटी कार्यालय, samaj karyalaya, samaj office",
-            "rotationConstraints": ""
+            "suggestions": "society office, सोसायटी कार्यालय, samaj karyalaya, samaj office"
         },
         {
             "uniqueID": "R211",
-            "roomNumber": 3,
+            "roomNumber": "3",
             "roomName": "MP Office - सांसद कार्यालय",
             "designatedPerson": "Manju Sharma",
             "comment": "Sansad Karyalay",
@@ -41,15 +43,15 @@
                 "y": 0.7,
                 "z": -24.35
             },
-            "floorNumber": "F0",
-            "department": "",
-            "isAvailable": true,
-            "suggestions": "mp office, सांसद कार्यालय, sansad karyalay, manju sharma",
             "rotationConstraints": {
                 "x": 0,
                 "y": 90,
                 "z": 0
-            }
+            },
+            "floorNumber": "F0",
+            "department": "",
+            "isAvailable": true,
+            "suggestions": "mp office, सांसद कार्यालय, sansad karyalay, manju sharma"
         },
         {
             "uniqueID": "R212",
