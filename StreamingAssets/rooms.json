@@ -32,7 +32,7 @@
         },
         {
             "uniqueID": "R211",
-            "roomNumber": "3",
+            "roomNumber": 3,
             "roomName": "MP Office - सांसद कार्यालय",
             "designatedPerson": "Manju Sharma",
             "comment": "Sansad Karyalay",
@@ -41,15 +41,15 @@
                 "y": 0.7,
                 "z": -24.35
             },
+            "floorNumber": "F0",
+            "department": "(empty)",
+            "isAvailable": "Yes",
+            "suggestions": "mp office, सांसद कार्यालय, sansad karyalay, manju sharma",
             "rotationConstraints": {
                 "x": 0,
                 "y": 90,
                 "z": 0
-            },
-            "floorNumber": "F0",
-            "department": "",
-            "isAvailable": true,
-            "suggestions": "mp office, सांसद कार्यालय, sansad karyalay, manju sharma"
+            }
         },
         {
             "uniqueID": "R212",
