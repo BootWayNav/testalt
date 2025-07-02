@@ -17,8 +17,8 @@
             "uniqueID": "R2100",
             "roomNumber": 2,
             "roomName": "Society Office - सोसायटी कार्यालय",
-            "designatedPerson": "(empty)",
-            "comment": "(empty)",
+            "designatedPerson": "",
+            "comment": "",
             "positionConstraints": {
                 "x": 51.57,
                 "y": 0.7,
@@ -26,9 +26,9 @@
             },
             "floorNumber": "F0",
             "department": "",
-            "isAvailable": "Yes",
+            "isAvailable": true,
             "suggestions": "society office, सोसायटी कार्यालय, samaj karyalaya, samaj office",
-            "rotationConstraints": "(empty)"
+            "rotationConstraints": ""
         },
         {
             "uniqueID": "R211",
