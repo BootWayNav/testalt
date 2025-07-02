@@ -9,7 +9,7 @@
             "positionConstraints": "{",
             "floorNumber": "F0",
             "department": "",
-            "isAvailable": false,
+            "isAvailable": true,
             "suggestions": "mukhya dwaar, mukhya dwar, main gate, main door, mukhya dvar, mukhy dwar",
             "rotationConstraints": ""
         },
