@@ -6,14 +6,10 @@
             "roomName": "Main Gate - मुख्य द्वार",
             "designatedPerson": "",
             "comment": "",
-            "positionConstraints": {
-                "x": 239.2,
-                "y": 0.7,
-                "z": 124.1
-            },
+            "positionConstraints": "{",
             "floorNumber": "F0",
-            "department": "",
-            "isAvailable": true,
+            "department": "HELLO",
+            "isAvailable": "true",
             "suggestions": "mukhya dwaar, mukhya dwar, main gate, main door, mukhya dvar, mukhy dwar"
         },
         {
