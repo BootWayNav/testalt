@@ -26,7 +26,7 @@
             },
             "floorNumber": "F0",
             "department": "",
-            "isAvailable": false,
+            "isAvailable": true,
             "suggestions": "society office, सोसायटी कार्यालय, samaj karyalaya, samaj office",
             "rotationConstraints": ""
         },
