@@ -13,20 +13,21 @@
             "suggestions": "mukhya dwaar, mukhya dwar, main gate, main door, mukhya dvar, mukhy dwar"
         },
         {
-            "uniqueID": "R210",
-            "roomNumber": "2",
+            "rotationConstraints": "(empty)",
             "roomName": "Society Office - सोसायटी कार्यालय",
-            "designatedPerson": "",
-            "comment": "",
+            "department": "(empty)",
+            "comment": "(empty)",
+            "designatedPerson": "(empty)",
+            "isAvailable": "Yes",
+            "suggestions": "society office, सोसायटी कार्यालय, samaj karyalaya, samaj office",
+            "floorNumber": "F0",
+            "roomNumber": 2,
+            "uniqueID": "R2100",
             "positionConstraints": {
                 "x": 51.57,
                 "y": 0.7,
                 "z": -24.35
-            },
-            "floorNumber": "F0",
-            "department": "",
-            "isAvailable": true,
-            "suggestions": "society office, सोसायटी कार्यालय, samaj karyalaya, samaj office"
+            }
         },
         {
             "uniqueID": "R211",
