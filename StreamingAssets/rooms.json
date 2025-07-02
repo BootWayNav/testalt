@@ -2,21 +2,21 @@
     "rooms": [
         {},
         {
-            "uniqueID": "R2100",
-            "roomNumber": "2",
-            "roomName": "Society Office - \u0938\u094b\u0938\u093e\u092f\u091f\u0940 \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f",
-            "designatedPerson": "",
             "comment": "",
-            "positionConstraints": "{'x': 51.57, 'y': 0.7, 'z': -24.35}",
-            "floorNumber": "F0",
             "department": "",
+            "designatedPerson": "",
+            "floorNumber": "F0",
             "isAvailable": "ATrue",
-            "suggestions": "society office, \u0938\u094b\u0938\u093e\u092f\u091f\u0940 \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f, samaj karyalaya, samaj office"
+            "positionConstraints": "{'x': 51.57, 'y': 0.7, 'z': -24.35}",
+            "roomName": "Society Office - सोसायटी कार्यालय",
+            "roomNumber": "2",
+            "suggestions": "society office, सोसायटी कार्यालय, samaj karyalaya, samaj office",
+            "uniqueID": "R2100"
         },
         {
             "uniqueID": "R211",
             "roomNumber": "3",
-            "roomName": "MP Office - \u0938\u093e\u0902\u0938\u0926 \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f",
+            "roomName": "MP Office - सांसद कार्यालय",
             "designatedPerson": "Manju Sharma",
             "comment": "Sansad Karyalay",
             "positionConstraints": {
@@ -32,12 +32,12 @@
             "floorNumber": "F0",
             "department": "",
             "isAvailable": true,
-            "suggestions": "mp office, \u0938\u093e\u0902\u0938\u0926 \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f, sansad karyalay, manju sharma"
+            "suggestions": "mp office, सांसद कार्यालय, sansad karyalay, manju sharma"
         },
         {
             "uniqueID": "R212",
             "roomNumber": "4",
-            "roomName": "Grocery Shoppe - \u0915\u093f\u0930\u093e\u0928\u093e \u0926\u0941\u0915\u093e\u0928",
+            "roomName": "Grocery Shoppe - किराना दुकान",
             "designatedPerson": "",
             "comment": "",
             "positionConstraints": {
@@ -53,12 +53,12 @@
             "floorNumber": "F0",
             "department": "",
             "isAvailable": true,
-            "suggestions": "departmental, grocery shop, \u0915\u093f\u0930\u093e\u0928\u093e \u0926\u0941\u0915\u093e\u0928, kirana dukaan, grocery store, kirana store, kirane ki dukan"
+            "suggestions": "departmental, grocery shop, किराना दुकान, kirana dukaan, grocery store, kirana store, kirane ki dukan"
         },
         {
             "uniqueID": "R213",
             "roomNumber": "5",
-            "roomName": "Vegetable Shoppe - \u0938\u092c\u094d\u091c\u0940 \u0915\u0940 \u0926\u0941\u0915\u093e\u0928",
+            "roomName": "Vegetable Shoppe - सब्जी की दुकान",
             "designatedPerson": "",
             "comment": "",
             "positionConstraints": {
@@ -74,12 +74,12 @@
             "floorNumber": "F0",
             "department": "",
             "isAvailable": true,
-            "suggestions": "vegetable shop, \u0938\u092c\u094d\u091c\u0940 \u0915\u0940 \u0926\u0941\u0915\u093e\u0928, sabzi ki dukaan, vegetable store, sabji ki dukan, sabji dukaan"
+            "suggestions": "vegetable shop, सब्जी की दुकान, sabzi ki dukaan, vegetable store, sabji ki dukan, sabji dukaan"
         },
         {
             "uniqueID": "R214",
             "roomNumber": "6",
-            "roomName": "Gym & Club House - \u091c\u093f\u092e \u0914\u0930 \u0915\u094d\u0932\u092c \u0939\u093e\u0909\u0938",
+            "roomName": "Gym & Club House - जिम और क्लब हाउस",
             "designatedPerson": "",
             "comment": "",
             "positionConstraints": {
@@ -90,12 +90,12 @@
             "floorNumber": "F0",
             "department": "",
             "isAvailable": true,
-            "suggestions": "gym, \u091c\u093f\u092e, club house, \u0915\u094d\u0932\u092c \u0939\u093e\u0909\u0938, exercise room,jim, vyayam shala, vyayam kendra"
+            "suggestions": "gym, जिम, club house, क्लब हाउस, exercise room,jim, vyayam shala, vyayam kendra"
         },
         {
             "uniqueID": "R215",
             "roomNumber": "7",
-            "roomName": "Swimming Pool - \u0938\u094d\u0935\u093f\u092e\u093f\u0902\u0917 \u092a\u0942\u0932",
+            "roomName": "Swimming Pool - स्विमिंग पूल",
             "designatedPerson": "",
             "comment": "",
             "positionConstraints": {
@@ -106,7 +106,7 @@
             "floorNumber": "F0",
             "department": "",
             "isAvailable": true,
-            "suggestions": "swimming pool, svimming pool, \u0938\u094d\u0935\u093f\u092e\u093f\u0902\u0917 \u092a\u0942\u0932, swimming, \u0924\u0948\u0930\u093e\u0915\u0940, snana kendra, snana kaksh, swimming area"
+            "suggestions": "swimming pool, svimming pool, स्विमिंग पूल, swimming, तैराकी, snana kendra, snana kaksh, swimming area"
         },
         {
             "uniqueID": "R001",
