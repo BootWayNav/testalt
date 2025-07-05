@@ -4,29 +4,7 @@
             "id": "Lift1",
             "userType": "Visitor",
             "isAvailable": "true",
-            "floors": {
-                "F0": {
-                    "position": {
-                        "x": 0,
-                        "y": 0,
-                        "z": 0
-                    }
-                },
-                "F1": {
-                    "position": {
-                        "x": 0,
-                        "y": 0,
-                        "z": 0
-                    }
-                },
-                "F2": {
-                    "position": {
-                        "x": 0,
-                        "y": 0,
-                        "z": 0
-                    }
-                }
-            }
+            "floors": "3 floors\n              F0, F1, F2"
         },
         {
             "id": "Lift2",
