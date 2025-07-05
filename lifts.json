@@ -3,7 +3,7 @@
     {
       "id": "Lift1",
       "userType": "Visitor",
-      "isAvailable": false,
+      "isAvailable": true,
       "floors": {
         "F0": {
           "position": {
