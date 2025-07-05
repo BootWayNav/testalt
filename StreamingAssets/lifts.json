@@ -15,7 +15,7 @@
         {
             "id": "Lift3",
             "userType": "Patient",
-            "isAvailable": "true",
+            "isAvailable": "false",
             "floors": "8 floors total\n              8 active: F0, F3, F4, F5, F6, F7, F8, F9"
         },
         {
