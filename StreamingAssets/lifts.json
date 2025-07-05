@@ -11,13 +11,6 @@
             "userType": "Visitor",
             "isAvailable": true,
             "floors": {
-                "F0": {
-                    "position": {
-                        "x": 184.89,
-                        "y": 0.49999999999999994,
-                        "z": -60.57
-                    }
-                },
                 "F1": {
                     "position": {
                         "x": 184.89,
