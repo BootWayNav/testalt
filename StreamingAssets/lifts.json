@@ -9,7 +9,7 @@
         {
             "id": "Lift2",
             "userType": "Visitor",
-            "isAvailable": "false",
+            "isAvailable": "true",
             "floors": "9 floors\n              F1, F2, F3, F4, F5, F6, F7, F8, F9"
         },
         {
