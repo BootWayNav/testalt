@@ -3127,22 +3127,6 @@
       "floorNumber": "F9",
       "department": "",
       "isAvailable": true
-    },
-    {
-      "uniqueID": "222",
-      "roomNumber": "a",
-      "roomName": "1001",
-      "designatedPerson": "s",
-      "comment": "",
-      "positionConstraints": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "floorNumber": "",
-      "department": "e",
-      "isAvailable": true,
-      "suggestions": ""
     }
   ]
 }
