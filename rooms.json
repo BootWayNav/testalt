@@ -1,3132 +1,3132 @@
 {
-    "rooms": [
-        {
-            "uniqueID": "R209",
-            "roomNumber": "1",
-            "roomName": "Main Gate - मुख्य द्वार",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 239.2,
-                "y": 0.7,
-                "z": 124.1
-            },
-            "floorNumber": "F0",
-            "department": "",
-            "isAvailable": true,
-            "suggestions": "mukhya dwaar, mukhya dwar, main gate, main door, mukhya dvar, mukhy dwar"
-        },
-        {
-            "uniqueID": "R210",
-            "roomNumber": "2",
-            "roomName": "Society Office - सोसायटी कार्यालय",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 51.57,
-                "y": 0.7,
-                "z": -24.35
-            },
-            "floorNumber": "F0",
-            "department": "",
-            "isAvailable": true,
-            "suggestions": "society office, सोसायटी कार्यालय, samaj karyalaya, samaj office"
-        },
-        {
-            "uniqueID": "R211",
-            "roomNumber": "3",
-            "roomName": "MP Office - सांसद कार्यालय",
-            "designatedPerson": "Manju Sharma",
-            "comment": "Sansad Karyalay",
-            "positionConstraints": {
-                "x": 15.02,
-                "y": 0.7,
-                "z": -24.35
-            },
-            "rotationConstraints": {
-                "x": 0,
-                "y": 90,
-                "z": 0
-            },
-            "floorNumber": "F0",
-            "department": "",
-            "isAvailable": true,
-            "suggestions": "mp office, सांसद कार्यालय, sansad karyalay, manju sharma"
-        },
-        {
-            "uniqueID": "R212",
-            "roomNumber": "4",
-            "roomName": "Grocery Shoppe - किराना दुकान",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 81.02,
-                "y": 0.7,
-                "z": -25.09
-            },
-            "rotationConstraints": {
-                "x": 0,
-                "y": 90,
-                "z": 0
-            },
-            "floorNumber": "F0",
-            "department": "",
-            "isAvailable": true,
-            "suggestions": "departmental, grocery shop, किराना दुकान, kirana dukaan, grocery store, kirana store, kirane ki dukan"
-        },
-        {
-            "uniqueID": "R213",
-            "roomNumber": "5",
-            "roomName": "Vegetable Shoppe - सब्जी की दुकान",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -9.18,
-                "y": 0.7,
-                "z": -27.17
-            },
-            "rotationConstraints": {
-                "x": 0,
-                "y": 90,
-                "z": 0
-            },
-            "floorNumber": "F0",
-            "department": "",
-            "isAvailable": true,
-            "suggestions": "vegetable shop, सब्जी की दुकान, sabzi ki dukaan, vegetable store, sabji ki dukan, sabji dukaan"
-        },
-        {
-            "uniqueID": "R214",
-            "roomNumber": "6",
-            "roomName": "Gym & Club House - जिम और क्लब हाउस",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 51.14,
-                "y": 0.7,
-                "z": -60.19
-            },
-            "floorNumber": "F0",
-            "department": "",
-            "isAvailable": true,
-            "suggestions": "gym, जिम, club house, क्लब हाउस, exercise room,jim, vyayam shala, vyayam kendra"
-        },
-        {
-            "uniqueID": "R215",
-            "roomNumber": "7",
-            "roomName": "Swimming Pool - स्विमिंग पूल",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 51.14,
-                "y": 0.7,
-                "z": -60.19
-            },
-            "floorNumber": "F0",
-            "department": "",
-            "isAvailable": true,
-            "suggestions": "swimming pool, svimming pool, स्विमिंग पूल, swimming, तैराकी, snana kendra, snana kaksh, swimming area"
-        },
-        {
-            "uniqueID": "R001",
-            "roomNumber": "101",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 185.04,
-                "y": 11.5,
-                "z": 53.36
-            },
-            "floorNumber": "F1",
-            "department": "",
-            "isAvailable": true,
-            "suggestions": "room 101, room no 101, room number 101, kamra 101, kamra no 101, kamra number 101, ek sau ek, eksau ek, ek sau 1, kamra ek sau ek, kamra ek sau 1, kamra 101"
-        },
-        {
-            "uniqueID": "R002",
-            "roomNumber": "102",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 179.72,
-                "y": 11.5,
-                "z": 53.36
-            },
-            "floorNumber": "F1",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R003",
-            "roomNumber": "103",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 179.9,
-                "y": 11.5,
-                "z": 26.02
-            },
-            "floorNumber": "F1",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R004",
-            "roomNumber": "104",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 183.81,
-                "y": 11.5,
-                "z": 26.02
-            },
-            "floorNumber": "F1",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R005",
-            "roomNumber": "105",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 183.81,
-                "y": 11.5,
-                "z": -38.4
-            },
-            "floorNumber": "F1",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R006",
-            "roomNumber": "106",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 182.5,
-                "y": 11.5,
-                "z": -72.4
-            },
-            "floorNumber": "F1",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R007",
-            "roomNumber": "107",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 182.5,
-                "y": 11.5,
-                "z": -72.4
-            },
-            "floorNumber": "F1",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R008",
-            "roomNumber": "108",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 151.33,
-                "y": 11.5,
-                "z": -58.89
-            },
-            "floorNumber": "F1",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R009",
-            "roomNumber": "109",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 96.24,
-                "y": 11.5,
-                "z": -59.37
-            },
-            "floorNumber": "F1",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R010",
-            "roomNumber": "110",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 115.27,
-                "y": 11.5,
-                "z": -61.31
-            },
-            "floorNumber": "F1",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R011",
-            "roomNumber": "115",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -71.9,
-                "y": 11.5,
-                "z": -61.0
-            },
-            "floorNumber": "F1",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R012",
-            "roomNumber": "116",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -43.9,
-                "y": 11.5,
-                "z": -59.0
-            },
-            "floorNumber": "F1",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R013",
-            "roomNumber": "117",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -106.4,
-                "y": 11.5,
-                "z": -59.0
-            },
-            "floorNumber": "F1",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R014",
-            "roomNumber": "118",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -137.4,
-                "y": 11.5,
-                "z": -73.0
-            },
-            "floorNumber": "F1",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R015",
-            "roomNumber": "119",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -137.4,
-                "y": 11.5,
-                "z": -73.0
-            },
-            "floorNumber": "F1",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R016",
-            "roomNumber": "120",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -137.4,
-                "y": 11.5,
-                "z": -41.6
-            },
-            "floorNumber": "F1",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R017",
-            "roomNumber": "121",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -137.4,
-                "y": 11.5,
-                "z": 21.6
-            },
-            "floorNumber": "F1",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R018",
-            "roomNumber": "122",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -134.8,
-                "y": 11.5,
-                "z": 21.6
-            },
-            "floorNumber": "F1",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R019",
-            "roomNumber": "123",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -136.1,
-                "y": 11.5,
-                "z": 52.9
-            },
-            "floorNumber": "F1",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R020",
-            "roomNumber": "124",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -136.1,
-                "y": 11.5,
-                "z": 52.9
-            },
-            "floorNumber": "F1",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R021",
-            "roomNumber": "201",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 185.04,
-                "y": 22.3,
-                "z": 53.36
-            },
-            "floorNumber": "F2",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R022",
-            "roomNumber": "202",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 179.72,
-                "y": 22.3,
-                "z": 53.36
-            },
-            "floorNumber": "F2",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R023",
-            "roomNumber": "203",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 179.9,
-                "y": 22.3,
-                "z": 26.02
-            },
-            "floorNumber": "F2",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R024",
-            "roomNumber": "204",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 183.81,
-                "y": 22.3,
-                "z": 26.02
-            },
-            "floorNumber": "F2",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R025",
-            "roomNumber": "205",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 183.81,
-                "y": 22.3,
-                "z": -38.4
-            },
-            "floorNumber": "F2",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R026",
-            "roomNumber": "206",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 182.5,
-                "y": 22.3,
-                "z": -72.4
-            },
-            "floorNumber": "F2",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R027",
-            "roomNumber": "207",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 182.5,
-                "y": 22.3,
-                "z": -72.4
-            },
-            "floorNumber": "F2",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R028",
-            "roomNumber": "208",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 151.33,
-                "y": 22.3,
-                "z": -58.89
-            },
-            "floorNumber": "F2",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R029",
-            "roomNumber": "209",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 96.24,
-                "y": 22.3,
-                "z": -59.37
-            },
-            "floorNumber": "F2",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R030",
-            "roomNumber": "210",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 115.27,
-                "y": 22.3,
-                "z": -61.31
-            },
-            "floorNumber": "F2",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R031",
-            "roomNumber": "215",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -71.9,
-                "y": 22.3,
-                "z": -61.0
-            },
-            "floorNumber": "F2",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R032",
-            "roomNumber": "216",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -43.9,
-                "y": 22.3,
-                "z": -59.0
-            },
-            "floorNumber": "F2",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R033",
-            "roomNumber": "217",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -106.4,
-                "y": 22.3,
-                "z": -59.0
-            },
-            "floorNumber": "F2",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R034",
-            "roomNumber": "218",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -137.4,
-                "y": 22.3,
-                "z": -73.0
-            },
-            "floorNumber": "F2",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R035",
-            "roomNumber": "219",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -137.4,
-                "y": 22.3,
-                "z": -73.0
-            },
-            "floorNumber": "F2",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R036",
-            "roomNumber": "220",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -137.4,
-                "y": 22.3,
-                "z": -41.6
-            },
-            "floorNumber": "F2",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R037",
-            "roomNumber": "221",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -137.4,
-                "y": 22.3,
-                "z": 21.6
-            },
-            "floorNumber": "F2",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R038",
-            "roomNumber": "222",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -134.8,
-                "y": 22.3,
-                "z": 21.6
-            },
-            "floorNumber": "F2",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R039",
-            "roomNumber": "223",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -136.1,
-                "y": 22.3,
-                "z": 52.9
-            },
-            "floorNumber": "F2",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R040",
-            "roomNumber": "224",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -136.1,
-                "y": 22.3,
-                "z": 52.9
-            },
-            "floorNumber": "F2",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R041",
-            "roomNumber": "301",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 185.04,
-                "y": 33.1,
-                "z": 53.36
-            },
-            "floorNumber": "F3",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R042",
-            "roomNumber": "302",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 179.72,
-                "y": 33.1,
-                "z": 53.36
-            },
-            "floorNumber": "F3",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R043",
-            "roomNumber": "303",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 179.9,
-                "y": 33.1,
-                "z": 26.02
-            },
-            "floorNumber": "F3",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R044",
-            "roomNumber": "304",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 183.81,
-                "y": 33.1,
-                "z": 26.02
-            },
-            "floorNumber": "F3",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R045",
-            "roomNumber": "305",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 183.81,
-                "y": 33.1,
-                "z": -38.4
-            },
-            "floorNumber": "F3",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R046",
-            "roomNumber": "306",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 182.5,
-                "y": 33.1,
-                "z": -72.4
-            },
-            "floorNumber": "F3",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R047",
-            "roomNumber": "307",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 182.5,
-                "y": 33.1,
-                "z": -72.4
-            },
-            "floorNumber": "F3",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R048",
-            "roomNumber": "308",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 151.33,
-                "y": 33.1,
-                "z": -58.89
-            },
-            "floorNumber": "F3",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R049",
-            "roomNumber": "309",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 96.24,
-                "y": 33.1,
-                "z": -59.37
-            },
-            "floorNumber": "F3",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R050",
-            "roomNumber": "310",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 115.27,
-                "y": 33.1,
-                "z": -61.31
-            },
-            "floorNumber": "F3",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R051",
-            "roomNumber": "311",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 54.4,
-                "y": 33.1,
-                "z": -60.3
-            },
-            "floorNumber": "F3",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R052",
-            "roomNumber": "312",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 54.4,
-                "y": 33.1,
-                "z": -60.3
-            },
-            "floorNumber": "F3",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R053",
-            "roomNumber": "313",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -8.1,
-                "y": 33.1,
-                "z": -60.3
-            },
-            "floorNumber": "F3",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R054",
-            "roomNumber": "314",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -8.1,
-                "y": 33.1,
-                "z": -60.3
-            },
-            "floorNumber": "F3",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R055",
-            "roomNumber": "315",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -71.9,
-                "y": 33.1,
-                "z": -61.0
-            },
-            "floorNumber": "F3",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R056",
-            "roomNumber": "316",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -43.9,
-                "y": 33.1,
-                "z": -59.0
-            },
-            "floorNumber": "F3",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R057",
-            "roomNumber": "317",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -106.4,
-                "y": 33.1,
-                "z": -59.0
-            },
-            "floorNumber": "F3",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R058",
-            "roomNumber": "318",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -137.4,
-                "y": 33.1,
-                "z": -73.0
-            },
-            "floorNumber": "F3",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R059",
-            "roomNumber": "319",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -137.4,
-                "y": 33.1,
-                "z": -73.0
-            },
-            "floorNumber": "F3",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R060",
-            "roomNumber": "320",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -137.4,
-                "y": 33.1,
-                "z": -41.6
-            },
-            "floorNumber": "F3",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R061",
-            "roomNumber": "321",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -137.4,
-                "y": 33.1,
-                "z": 21.6
-            },
-            "floorNumber": "F3",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R062",
-            "roomNumber": "322",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -134.8,
-                "y": 33.1,
-                "z": 21.6
-            },
-            "floorNumber": "F3",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R063",
-            "roomNumber": "323",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -136.1,
-                "y": 33.1,
-                "z": 52.9
-            },
-            "floorNumber": "F3",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R064",
-            "roomNumber": "324",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -136.1,
-                "y": 33.1,
-                "z": 52.9
-            },
-            "floorNumber": "F3",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R065",
-            "roomNumber": "401",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 185.04,
-                "y": 43.900000000000006,
-                "z": 53.36
-            },
-            "floorNumber": "F4",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R066",
-            "roomNumber": "402",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 179.72,
-                "y": 43.900000000000006,
-                "z": 53.36
-            },
-            "floorNumber": "F4",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R067",
-            "roomNumber": "403",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 179.9,
-                "y": 43.900000000000006,
-                "z": 26.02
-            },
-            "floorNumber": "F4",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R068",
-            "roomNumber": "404",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 183.81,
-                "y": 43.900000000000006,
-                "z": 26.02
-            },
-            "floorNumber": "F4",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R069",
-            "roomNumber": "405",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 183.81,
-                "y": 43.900000000000006,
-                "z": -38.4
-            },
-            "floorNumber": "F4",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R070",
-            "roomNumber": "406",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 182.5,
-                "y": 43.900000000000006,
-                "z": -72.4
-            },
-            "floorNumber": "F4",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R071",
-            "roomNumber": "407",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 182.5,
-                "y": 43.900000000000006,
-                "z": -72.4
-            },
-            "floorNumber": "F4",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R072",
-            "roomNumber": "408",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 151.33,
-                "y": 43.900000000000006,
-                "z": -58.89
-            },
-            "floorNumber": "F4",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R073",
-            "roomNumber": "409",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 96.24,
-                "y": 43.900000000000006,
-                "z": -59.37
-            },
-            "floorNumber": "F4",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R074",
-            "roomNumber": "410",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 115.27,
-                "y": 43.900000000000006,
-                "z": -61.31
-            },
-            "floorNumber": "F4",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R075",
-            "roomNumber": "411",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 54.4,
-                "y": 43.900000000000006,
-                "z": -60.3
-            },
-            "floorNumber": "F4",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R076",
-            "roomNumber": "412",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 54.4,
-                "y": 43.900000000000006,
-                "z": -60.3
-            },
-            "floorNumber": "F4",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R077",
-            "roomNumber": "413",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -8.1,
-                "y": 43.900000000000006,
-                "z": -60.3
-            },
-            "floorNumber": "F4",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R078",
-            "roomNumber": "414",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -8.1,
-                "y": 43.900000000000006,
-                "z": -60.3
-            },
-            "floorNumber": "F4",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R079",
-            "roomNumber": "415",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -71.9,
-                "y": 43.900000000000006,
-                "z": -61.0
-            },
-            "floorNumber": "F4",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R080",
-            "roomNumber": "416",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -43.9,
-                "y": 43.900000000000006,
-                "z": -59.0
-            },
-            "floorNumber": "F4",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R081",
-            "roomNumber": "417",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -106.4,
-                "y": 43.900000000000006,
-                "z": -59.0
-            },
-            "floorNumber": "F4",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R082",
-            "roomNumber": "418",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -137.4,
-                "y": 43.900000000000006,
-                "z": -73.0
-            },
-            "floorNumber": "F4",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R083",
-            "roomNumber": "419",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -137.4,
-                "y": 43.900000000000006,
-                "z": -73.0
-            },
-            "floorNumber": "F4",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R084",
-            "roomNumber": "425",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -137.4,
-                "y": 43.900000000000006,
-                "z": -41.6
-            },
-            "floorNumber": "F4",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R085",
-            "roomNumber": "421",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -137.4,
-                "y": 43.900000000000006,
-                "z": 21.6
-            },
-            "floorNumber": "F4",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R086",
-            "roomNumber": "422",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -134.8,
-                "y": 43.900000000000006,
-                "z": 21.6
-            },
-            "floorNumber": "F4",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R087",
-            "roomNumber": "423",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -136.1,
-                "y": 43.900000000000006,
-                "z": 52.9
-            },
-            "floorNumber": "F4",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R088",
-            "roomNumber": "424",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -136.1,
-                "y": 43.900000000000006,
-                "z": 52.9
-            },
-            "floorNumber": "F4",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R089",
-            "roomNumber": "501",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 185.04,
-                "y": 54.7,
-                "z": 53.36
-            },
-            "floorNumber": "F5",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R090",
-            "roomNumber": "502",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 179.72,
-                "y": 54.7,
-                "z": 53.36
-            },
-            "floorNumber": "F5",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R091",
-            "roomNumber": "503",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 179.9,
-                "y": 54.7,
-                "z": 26.02
-            },
-            "floorNumber": "F5",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R092",
-            "roomNumber": "504",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 183.81,
-                "y": 54.7,
-                "z": 26.02
-            },
-            "floorNumber": "F5",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R093",
-            "roomNumber": "505",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 183.81,
-                "y": 54.7,
-                "z": -38.4
-            },
-            "floorNumber": "F5",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R094",
-            "roomNumber": "506",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 182.5,
-                "y": 54.7,
-                "z": -72.4
-            },
-            "floorNumber": "F5",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R095",
-            "roomNumber": "507",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 182.5,
-                "y": 54.7,
-                "z": -72.4
-            },
-            "floorNumber": "F5",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R096",
-            "roomNumber": "508",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 151.33,
-                "y": 54.7,
-                "z": -58.89
-            },
-            "floorNumber": "F5",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R097",
-            "roomNumber": "509",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 96.24,
-                "y": 54.7,
-                "z": -59.37
-            },
-            "floorNumber": "F5",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R098",
-            "roomNumber": "510",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 115.27,
-                "y": 54.7,
-                "z": -61.31
-            },
-            "floorNumber": "F5",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R099",
-            "roomNumber": "511",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 54.4,
-                "y": 54.7,
-                "z": -60.3
-            },
-            "floorNumber": "F5",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R100",
-            "roomNumber": "512",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 54.4,
-                "y": 54.7,
-                "z": -60.3
-            },
-            "floorNumber": "F5",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R101",
-            "roomNumber": "513",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -8.1,
-                "y": 54.7,
-                "z": -60.3
-            },
-            "floorNumber": "F5",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R102",
-            "roomNumber": "514",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -8.1,
-                "y": 54.7,
-                "z": -60.3
-            },
-            "floorNumber": "F5",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R103",
-            "roomNumber": "515",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -71.9,
-                "y": 54.7,
-                "z": -61.0
-            },
-            "floorNumber": "F5",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R104",
-            "roomNumber": "516",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -43.9,
-                "y": 54.7,
-                "z": -59.0
-            },
-            "floorNumber": "F5",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R105",
-            "roomNumber": "517",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -106.4,
-                "y": 54.7,
-                "z": -59.0
-            },
-            "floorNumber": "F5",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R106",
-            "roomNumber": "518",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -137.4,
-                "y": 54.7,
-                "z": -73.0
-            },
-            "floorNumber": "F5",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R107",
-            "roomNumber": "519",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -137.4,
-                "y": 54.7,
-                "z": -73.0
-            },
-            "floorNumber": "F5",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R108",
-            "roomNumber": "520",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -137.4,
-                "y": 54.7,
-                "z": -41.6
-            },
-            "floorNumber": "F5",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R109",
-            "roomNumber": "521",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -137.4,
-                "y": 54.7,
-                "z": 21.6
-            },
-            "floorNumber": "F5",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R110",
-            "roomNumber": "522",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -134.8,
-                "y": 54.7,
-                "z": 21.6
-            },
-            "floorNumber": "F5",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R111",
-            "roomNumber": "523",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -136.1,
-                "y": 54.7,
-                "z": 52.9
-            },
-            "floorNumber": "F5",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R112",
-            "roomNumber": "524",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -136.1,
-                "y": 54.7,
-                "z": 52.9
-            },
-            "floorNumber": "F5",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R113",
-            "roomNumber": "601",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 185.04,
-                "y": 65.5,
-                "z": 53.36
-            },
-            "floorNumber": "F6",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R114",
-            "roomNumber": "602",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 179.72,
-                "y": 65.5,
-                "z": 53.36
-            },
-            "floorNumber": "F6",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R115",
-            "roomNumber": "603",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 179.9,
-                "y": 65.5,
-                "z": 26.02
-            },
-            "floorNumber": "F6",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R116",
-            "roomNumber": "604",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 183.81,
-                "y": 65.5,
-                "z": 26.02
-            },
-            "floorNumber": "F6",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R117",
-            "roomNumber": "605",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 183.81,
-                "y": 65.5,
-                "z": -38.4
-            },
-            "floorNumber": "F6",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R118",
-            "roomNumber": "606",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 182.5,
-                "y": 65.5,
-                "z": -72.4
-            },
-            "floorNumber": "F6",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R119",
-            "roomNumber": "607",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 182.5,
-                "y": 65.5,
-                "z": -72.4
-            },
-            "floorNumber": "F6",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R120",
-            "roomNumber": "608",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 151.33,
-                "y": 65.5,
-                "z": -58.89
-            },
-            "floorNumber": "F6",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R121",
-            "roomNumber": "609",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 96.24,
-                "y": 65.5,
-                "z": -59.37
-            },
-            "floorNumber": "F6",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R122",
-            "roomNumber": "610",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 115.27,
-                "y": 65.5,
-                "z": -61.31
-            },
-            "floorNumber": "F6",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R123",
-            "roomNumber": "611",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 54.4,
-                "y": 65.5,
-                "z": -60.3
-            },
-            "floorNumber": "F6",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R124",
-            "roomNumber": "612",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 54.4,
-                "y": 65.5,
-                "z": -60.3
-            },
-            "floorNumber": "F6",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R125",
-            "roomNumber": "613",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -8.1,
-                "y": 65.5,
-                "z": -60.3
-            },
-            "floorNumber": "F6",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R126",
-            "roomNumber": "614",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -8.1,
-                "y": 65.5,
-                "z": -60.3
-            },
-            "floorNumber": "F6",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R127",
-            "roomNumber": "615",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -71.9,
-                "y": 65.5,
-                "z": -61.0
-            },
-            "floorNumber": "F6",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R128",
-            "roomNumber": "616",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -43.9,
-                "y": 65.5,
-                "z": -59.0
-            },
-            "floorNumber": "F6",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R129",
-            "roomNumber": "617",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -106.4,
-                "y": 65.5,
-                "z": -59.0
-            },
-            "floorNumber": "F6",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R130",
-            "roomNumber": "618",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -137.4,
-                "y": 65.5,
-                "z": -73.0
-            },
-            "floorNumber": "F6",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R131",
-            "roomNumber": "619",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -137.4,
-                "y": 65.5,
-                "z": -73.0
-            },
-            "floorNumber": "F6",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R132",
-            "roomNumber": "620",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -137.4,
-                "y": 65.5,
-                "z": -41.6
-            },
-            "floorNumber": "F6",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R133",
-            "roomNumber": "621",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -137.4,
-                "y": 65.5,
-                "z": 21.6
-            },
-            "floorNumber": "F6",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R134",
-            "roomNumber": "622",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -134.8,
-                "y": 65.5,
-                "z": 21.6
-            },
-            "floorNumber": "F6",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R135",
-            "roomNumber": "623",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -136.1,
-                "y": 65.5,
-                "z": 52.9
-            },
-            "floorNumber": "F6",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R136",
-            "roomNumber": "624",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -136.1,
-                "y": 65.5,
-                "z": 52.9
-            },
-            "floorNumber": "F6",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R137",
-            "roomNumber": "701",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 185.04,
-                "y": 76.3,
-                "z": 53.36
-            },
-            "floorNumber": "F7",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R138",
-            "roomNumber": "702",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 179.72,
-                "y": 76.3,
-                "z": 53.36
-            },
-            "floorNumber": "F7",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R139",
-            "roomNumber": "703",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 179.9,
-                "y": 76.3,
-                "z": 26.02
-            },
-            "floorNumber": "F7",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R140",
-            "roomNumber": "704",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 183.81,
-                "y": 76.3,
-                "z": 26.02
-            },
-            "floorNumber": "F7",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R141",
-            "roomNumber": "705",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 183.81,
-                "y": 76.3,
-                "z": -38.4
-            },
-            "floorNumber": "F7",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R142",
-            "roomNumber": "706",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 182.5,
-                "y": 76.3,
-                "z": -72.4
-            },
-            "floorNumber": "F7",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R143",
-            "roomNumber": "707",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 182.5,
-                "y": 76.3,
-                "z": -72.4
-            },
-            "floorNumber": "F7",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R144",
-            "roomNumber": "708",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 151.33,
-                "y": 76.3,
-                "z": -58.89
-            },
-            "floorNumber": "F7",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R145",
-            "roomNumber": "709",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 96.24,
-                "y": 76.3,
-                "z": -59.37
-            },
-            "floorNumber": "F7",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R146",
-            "roomNumber": "710",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 115.27,
-                "y": 76.3,
-                "z": -61.31
-            },
-            "floorNumber": "F7",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R147",
-            "roomNumber": "711",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 54.4,
-                "y": 76.3,
-                "z": -60.3
-            },
-            "floorNumber": "F7",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R148",
-            "roomNumber": "712",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 54.4,
-                "y": 76.3,
-                "z": -60.3
-            },
-            "floorNumber": "F7",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R149",
-            "roomNumber": "713",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -8.1,
-                "y": 76.3,
-                "z": -60.3
-            },
-            "floorNumber": "F7",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R150",
-            "roomNumber": "714",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -8.1,
-                "y": 76.3,
-                "z": -60.3
-            },
-            "floorNumber": "F7",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R151",
-            "roomNumber": "715",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -71.9,
-                "y": 76.3,
-                "z": -61.0
-            },
-            "floorNumber": "F7",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R152",
-            "roomNumber": "716",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -43.9,
-                "y": 76.3,
-                "z": -59.0
-            },
-            "floorNumber": "F7",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R153",
-            "roomNumber": "717",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -106.4,
-                "y": 76.3,
-                "z": -59.0
-            },
-            "floorNumber": "F7",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R154",
-            "roomNumber": "718",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -137.4,
-                "y": 76.3,
-                "z": -73.0
-            },
-            "floorNumber": "F7",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R155",
-            "roomNumber": "719",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -137.4,
-                "y": 76.3,
-                "z": -73.0
-            },
-            "floorNumber": "F7",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R156",
-            "roomNumber": "720",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -137.4,
-                "y": 76.3,
-                "z": -41.6
-            },
-            "floorNumber": "F7",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R157",
-            "roomNumber": "721",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -137.4,
-                "y": 76.3,
-                "z": 21.6
-            },
-            "floorNumber": "F7",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R158",
-            "roomNumber": "722",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -134.8,
-                "y": 76.3,
-                "z": 21.6
-            },
-            "floorNumber": "F7",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R159",
-            "roomNumber": "723",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -136.1,
-                "y": 76.3,
-                "z": 52.9
-            },
-            "floorNumber": "F7",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R160",
-            "roomNumber": "724",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -136.1,
-                "y": 76.3,
-                "z": 52.9
-            },
-            "floorNumber": "F7",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R161",
-            "roomNumber": "801",
-            "roomName": "802",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 185.04,
-                "y": 87.1,
-                "z": 53.36
-            },
-            "floorNumber": "F8",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R163",
-            "roomNumber": "803",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 179.9,
-                "y": 87.1,
-                "z": 26.02
-            },
-            "floorNumber": "F8",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R164",
-            "roomNumber": "804",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 183.81,
-                "y": 87.1,
-                "z": 26.02
-            },
-            "floorNumber": "F8",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R165",
-            "roomNumber": "805",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 183.81,
-                "y": 87.1,
-                "z": -38.4
-            },
-            "floorNumber": "F8",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R166",
-            "roomNumber": "806",
-            "roomName": "906",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 182.5,
-                "y": 87.1,
-                "z": -72.4
-            },
-            "floorNumber": "F8",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R167",
-            "roomNumber": "807",
-            "roomName": "907",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 182.5,
-                "y": 87.1,
-                "z": -72.4
-            },
-            "floorNumber": "F8",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R168",
-            "roomNumber": "808",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 151.33,
-                "y": 87.1,
-                "z": -58.89
-            },
-            "floorNumber": "F8",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R169",
-            "roomNumber": "809",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 96.24,
-                "y": 87.1,
-                "z": -59.37
-            },
-            "floorNumber": "F8",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R170",
-            "roomNumber": "810",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 115.27,
-                "y": 87.1,
-                "z": -61.31
-            },
-            "floorNumber": "F8",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R171",
-            "roomNumber": "811",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 54.4,
-                "y": 87.1,
-                "z": -60.3
-            },
-            "floorNumber": "F8",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R172",
-            "roomNumber": "812",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 54.4,
-                "y": 87.1,
-                "z": -60.3
-            },
-            "floorNumber": "F8",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R173",
-            "roomNumber": "813",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -8.1,
-                "y": 87.1,
-                "z": -60.3
-            },
-            "floorNumber": "F8",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R174",
-            "roomNumber": "814",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -8.1,
-                "y": 87.1,
-                "z": -60.3
-            },
-            "floorNumber": "F8",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R175",
-            "roomNumber": "815",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -71.9,
-                "y": 87.1,
-                "z": -61.0
-            },
-            "floorNumber": "F8",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R176",
-            "roomNumber": "816",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -43.9,
-                "y": 87.1,
-                "z": -59.0
-            },
-            "floorNumber": "F8",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R177",
-            "roomNumber": "817",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -106.4,
-                "y": 87.1,
-                "z": -59.0
-            },
-            "floorNumber": "F8",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R178",
-            "roomNumber": "818",
-            "roomName": "918",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -137.4,
-                "y": 87.1,
-                "z": -73.0
-            },
-            "floorNumber": "F8",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R179",
-            "roomNumber": "819",
-            "roomName": "919",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -137.4,
-                "y": 87.1,
-                "z": -73.0
-            },
-            "floorNumber": "F8",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R180",
-            "roomNumber": "820",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -137.4,
-                "y": 87.1,
-                "z": -41.6
-            },
-            "floorNumber": "F8",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R181",
-            "roomNumber": "821",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -137.4,
-                "y": 87.1,
-                "z": 21.6
-            },
-            "floorNumber": "F8",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R182",
-            "roomNumber": "822",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -134.8,
-                "y": 87.1,
-                "z": 21.6
-            },
-            "floorNumber": "F8",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R183",
-            "roomNumber": "823",
-            "roomName": "923",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -136.1,
-                "y": 87.1,
-                "z": 52.9
-            },
-            "floorNumber": "F8",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R184",
-            "roomNumber": "824",
-            "roomName": "924",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -136.1,
-                "y": 87.1,
-                "z": 52.9
-            },
-            "floorNumber": "F8",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R185",
-            "roomNumber": "901",
-            "roomName": "902",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 185.04,
-                "y": 97.89999999999999,
-                "z": 53.36
-            },
-            "floorNumber": "F9",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R187",
-            "roomNumber": "903",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 179.9,
-                "y": 97.89999999999999,
-                "z": 26.02
-            },
-            "floorNumber": "F9",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R188",
-            "roomNumber": "904",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 183.81,
-                "y": 97.89999999999999,
-                "z": 26.02
-            },
-            "floorNumber": "F9",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R189",
-            "roomNumber": "905",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 183.81,
-                "y": 97.89999999999999,
-                "z": -38.4
-            },
-            "floorNumber": "F9",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R192",
-            "roomNumber": "908",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 151.33,
-                "y": 97.89999999999999,
-                "z": -58.89
-            },
-            "floorNumber": "F9",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R193",
-            "roomNumber": "909",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 96.24,
-                "y": 97.89999999999999,
-                "z": -59.37
-            },
-            "floorNumber": "F9",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R194",
-            "roomNumber": "910",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 115.27,
-                "y": 97.89999999999999,
-                "z": -61.31
-            },
-            "floorNumber": "F9",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R195",
-            "roomNumber": "911",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 54.4,
-                "y": 97.89999999999999,
-                "z": -60.3
-            },
-            "floorNumber": "F9",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R196",
-            "roomNumber": "912",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": 54.4,
-                "y": 97.89999999999999,
-                "z": -60.3
-            },
-            "floorNumber": "F9",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R197",
-            "roomNumber": "913",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -8.1,
-                "y": 97.89999999999999,
-                "z": -60.3
-            },
-            "floorNumber": "F9",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R198",
-            "roomNumber": "914",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -8.1,
-                "y": 97.89999999999999,
-                "z": -60.3
-            },
-            "floorNumber": "F9",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R199",
-            "roomNumber": "915",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -71.9,
-                "y": 97.89999999999999,
-                "z": -61.0
-            },
-            "floorNumber": "F9",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R200",
-            "roomNumber": "916",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -43.9,
-                "y": 97.89999999999999,
-                "z": -59.0
-            },
-            "floorNumber": "F9",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R201",
-            "roomNumber": "917",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -106.4,
-                "y": 97.89999999999999,
-                "z": -59.0
-            },
-            "floorNumber": "F9",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R204",
-            "roomNumber": "920",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -137.4,
-                "y": 97.89999999999999,
-                "z": -41.6
-            },
-            "floorNumber": "F9",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R205",
-            "roomNumber": "921",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -137.4,
-                "y": 97.89999999999999,
-                "z": 21.6
-            },
-            "floorNumber": "F9",
-            "department": "",
-            "isAvailable": true
-        },
-        {
-            "uniqueID": "R206",
-            "roomNumber": "922",
-            "roomName": "",
-            "designatedPerson": "",
-            "comment": "",
-            "positionConstraints": {
-                "x": -134.8,
-                "y": 97.89999999999999,
-                "z": 21.6
-            },
-            "floorNumber": "F9",
-            "department": "",
-            "isAvailable": true
-        }
-    ]
+  "rooms": [
+    {
+      "uniqueID": "R209",
+      "roomNumber": "1",
+      "roomName": "Main Gate - मुख्य द्वार",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 239.2,
+        "y": 0.7,
+        "z": 124.1
+      },
+      "floorNumber": "F0",
+      "department": "",
+      "isAvailable": false,
+      "suggestions": "mukhya dwaar, mukhya dwar, main gate, main door, mukhya dvar, mukhy dwar"
+    },
+    {
+      "uniqueID": "R210",
+      "roomNumber": "2",
+      "roomName": "Society Office - सोसायटी कार्यालय",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 51.57,
+        "y": 0.7,
+        "z": -24.35
+      },
+      "floorNumber": "F0",
+      "department": "",
+      "isAvailable": true,
+      "suggestions": "society office, सोसायटी कार्यालय, samaj karyalaya, samaj office"
+    },
+    {
+      "uniqueID": "R211",
+      "roomNumber": "3",
+      "roomName": "MP Office - सांसद कार्यालय",
+      "designatedPerson": "Manju Sharma",
+      "comment": "Sansad Karyalay",
+      "positionConstraints": {
+        "x": 15.02,
+        "y": 0.7,
+        "z": -24.35
+      },
+      "rotationConstraints": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "floorNumber": "F0",
+      "department": "",
+      "isAvailable": true,
+      "suggestions": "mp office, सांसद कार्यालय, sansad karyalay, manju sharma"
+    },
+    {
+      "uniqueID": "R212",
+      "roomNumber": "4",
+      "roomName": "Grocery Shoppe - किराना दुकान",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 81.02,
+        "y": 0.7,
+        "z": -25.09
+      },
+      "rotationConstraints": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "floorNumber": "F0",
+      "department": "",
+      "isAvailable": true,
+      "suggestions": "departmental, grocery shop, किराना दुकान, kirana dukaan, grocery store, kirana store, kirane ki dukan"
+    },
+    {
+      "uniqueID": "R213",
+      "roomNumber": "5",
+      "roomName": "Vegetable Shoppe - सब्जी की दुकान",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -9.18,
+        "y": 0.7,
+        "z": -27.17
+      },
+      "rotationConstraints": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "floorNumber": "F0",
+      "department": "",
+      "isAvailable": true,
+      "suggestions": "vegetable shop, सब्जी की दुकान, sabzi ki dukaan, vegetable store, sabji ki dukan, sabji dukaan"
+    },
+    {
+      "uniqueID": "R214",
+      "roomNumber": "6",
+      "roomName": "Gym & Club House - जिम और क्लब हाउस",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 51.14,
+        "y": 0.7,
+        "z": -60.19
+      },
+      "floorNumber": "F0",
+      "department": "",
+      "isAvailable": true,
+      "suggestions": "gym, जिम, club house, क्लब हाउस, exercise room,jim, vyayam shala, vyayam kendra"
+    },
+    {
+      "uniqueID": "R215",
+      "roomNumber": "7",
+      "roomName": "Swimming Pool - स्विमिंग पूल",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 51.14,
+        "y": 0.7,
+        "z": -60.19
+      },
+      "floorNumber": "F0",
+      "department": "",
+      "isAvailable": true,
+      "suggestions": "swimming pool, svimming pool, स्विमिंग पूल, swimming, तैराकी, snana kendra, snana kaksh, swimming area"
+    },
+    {
+      "uniqueID": "R001",
+      "roomNumber": "101",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 185.04,
+        "y": 11.5,
+        "z": 53.36
+      },
+      "floorNumber": "F1",
+      "department": "",
+      "isAvailable": true,
+      "suggestions": "room 101, room no 101, room number 101, kamra 101, kamra no 101, kamra number 101, ek sau ek, eksau ek, ek sau 1, kamra ek sau ek, kamra ek sau 1, kamra 101"
+    },
+    {
+      "uniqueID": "R002",
+      "roomNumber": "102",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 179.72,
+        "y": 11.5,
+        "z": 53.36
+      },
+      "floorNumber": "F1",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R003",
+      "roomNumber": "103",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 179.9,
+        "y": 11.5,
+        "z": 26.02
+      },
+      "floorNumber": "F1",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R004",
+      "roomNumber": "104",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 183.81,
+        "y": 11.5,
+        "z": 26.02
+      },
+      "floorNumber": "F1",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R005",
+      "roomNumber": "105",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 183.81,
+        "y": 11.5,
+        "z": -38.4
+      },
+      "floorNumber": "F1",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R006",
+      "roomNumber": "106",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 182.5,
+        "y": 11.5,
+        "z": -72.4
+      },
+      "floorNumber": "F1",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R007",
+      "roomNumber": "107",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 182.5,
+        "y": 11.5,
+        "z": -72.4
+      },
+      "floorNumber": "F1",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R008",
+      "roomNumber": "108",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 151.33,
+        "y": 11.5,
+        "z": -58.89
+      },
+      "floorNumber": "F1",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R009",
+      "roomNumber": "109",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 96.24,
+        "y": 11.5,
+        "z": -59.37
+      },
+      "floorNumber": "F1",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R010",
+      "roomNumber": "110",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 115.27,
+        "y": 11.5,
+        "z": -61.31
+      },
+      "floorNumber": "F1",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R011",
+      "roomNumber": "115",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -71.9,
+        "y": 11.5,
+        "z": -61
+      },
+      "floorNumber": "F1",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R012",
+      "roomNumber": "116",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -43.9,
+        "y": 11.5,
+        "z": -59
+      },
+      "floorNumber": "F1",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R013",
+      "roomNumber": "117",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -106.4,
+        "y": 11.5,
+        "z": -59
+      },
+      "floorNumber": "F1",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R014",
+      "roomNumber": "118",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -137.4,
+        "y": 11.5,
+        "z": -73
+      },
+      "floorNumber": "F1",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R015",
+      "roomNumber": "119",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -137.4,
+        "y": 11.5,
+        "z": -73
+      },
+      "floorNumber": "F1",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R016",
+      "roomNumber": "120",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -137.4,
+        "y": 11.5,
+        "z": -41.6
+      },
+      "floorNumber": "F1",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R017",
+      "roomNumber": "121",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -137.4,
+        "y": 11.5,
+        "z": 21.6
+      },
+      "floorNumber": "F1",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R018",
+      "roomNumber": "122",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -134.8,
+        "y": 11.5,
+        "z": 21.6
+      },
+      "floorNumber": "F1",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R019",
+      "roomNumber": "123",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -136.1,
+        "y": 11.5,
+        "z": 52.9
+      },
+      "floorNumber": "F1",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R020",
+      "roomNumber": "124",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -136.1,
+        "y": 11.5,
+        "z": 52.9
+      },
+      "floorNumber": "F1",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R021",
+      "roomNumber": "201",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 185.04,
+        "y": 22.3,
+        "z": 53.36
+      },
+      "floorNumber": "F2",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R022",
+      "roomNumber": "202",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 179.72,
+        "y": 22.3,
+        "z": 53.36
+      },
+      "floorNumber": "F2",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R023",
+      "roomNumber": "203",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 179.9,
+        "y": 22.3,
+        "z": 26.02
+      },
+      "floorNumber": "F2",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R024",
+      "roomNumber": "204",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 183.81,
+        "y": 22.3,
+        "z": 26.02
+      },
+      "floorNumber": "F2",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R025",
+      "roomNumber": "205",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 183.81,
+        "y": 22.3,
+        "z": -38.4
+      },
+      "floorNumber": "F2",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R026",
+      "roomNumber": "206",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 182.5,
+        "y": 22.3,
+        "z": -72.4
+      },
+      "floorNumber": "F2",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R027",
+      "roomNumber": "207",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 182.5,
+        "y": 22.3,
+        "z": -72.4
+      },
+      "floorNumber": "F2",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R028",
+      "roomNumber": "208",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 151.33,
+        "y": 22.3,
+        "z": -58.89
+      },
+      "floorNumber": "F2",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R029",
+      "roomNumber": "209",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 96.24,
+        "y": 22.3,
+        "z": -59.37
+      },
+      "floorNumber": "F2",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R030",
+      "roomNumber": "210",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 115.27,
+        "y": 22.3,
+        "z": -61.31
+      },
+      "floorNumber": "F2",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R031",
+      "roomNumber": "215",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -71.9,
+        "y": 22.3,
+        "z": -61
+      },
+      "floorNumber": "F2",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R032",
+      "roomNumber": "216",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -43.9,
+        "y": 22.3,
+        "z": -59
+      },
+      "floorNumber": "F2",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R033",
+      "roomNumber": "217",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -106.4,
+        "y": 22.3,
+        "z": -59
+      },
+      "floorNumber": "F2",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R034",
+      "roomNumber": "218",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -137.4,
+        "y": 22.3,
+        "z": -73
+      },
+      "floorNumber": "F2",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R035",
+      "roomNumber": "219",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -137.4,
+        "y": 22.3,
+        "z": -73
+      },
+      "floorNumber": "F2",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R036",
+      "roomNumber": "220",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -137.4,
+        "y": 22.3,
+        "z": -41.6
+      },
+      "floorNumber": "F2",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R037",
+      "roomNumber": "221",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -137.4,
+        "y": 22.3,
+        "z": 21.6
+      },
+      "floorNumber": "F2",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R038",
+      "roomNumber": "222",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -134.8,
+        "y": 22.3,
+        "z": 21.6
+      },
+      "floorNumber": "F2",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R039",
+      "roomNumber": "223",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -136.1,
+        "y": 22.3,
+        "z": 52.9
+      },
+      "floorNumber": "F2",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R040",
+      "roomNumber": "224",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -136.1,
+        "y": 22.3,
+        "z": 52.9
+      },
+      "floorNumber": "F2",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R041",
+      "roomNumber": "301",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 185.04,
+        "y": 33.1,
+        "z": 53.36
+      },
+      "floorNumber": "F3",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R042",
+      "roomNumber": "302",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 179.72,
+        "y": 33.1,
+        "z": 53.36
+      },
+      "floorNumber": "F3",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R043",
+      "roomNumber": "303",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 179.9,
+        "y": 33.1,
+        "z": 26.02
+      },
+      "floorNumber": "F3",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R044",
+      "roomNumber": "304",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 183.81,
+        "y": 33.1,
+        "z": 26.02
+      },
+      "floorNumber": "F3",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R045",
+      "roomNumber": "305",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 183.81,
+        "y": 33.1,
+        "z": -38.4
+      },
+      "floorNumber": "F3",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R046",
+      "roomNumber": "306",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 182.5,
+        "y": 33.1,
+        "z": -72.4
+      },
+      "floorNumber": "F3",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R047",
+      "roomNumber": "307",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 182.5,
+        "y": 33.1,
+        "z": -72.4
+      },
+      "floorNumber": "F3",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R048",
+      "roomNumber": "308",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 151.33,
+        "y": 33.1,
+        "z": -58.89
+      },
+      "floorNumber": "F3",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R049",
+      "roomNumber": "309",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 96.24,
+        "y": 33.1,
+        "z": -59.37
+      },
+      "floorNumber": "F3",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R050",
+      "roomNumber": "310",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 115.27,
+        "y": 33.1,
+        "z": -61.31
+      },
+      "floorNumber": "F3",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R051",
+      "roomNumber": "311",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 54.4,
+        "y": 33.1,
+        "z": -60.3
+      },
+      "floorNumber": "F3",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R052",
+      "roomNumber": "312",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 54.4,
+        "y": 33.1,
+        "z": -60.3
+      },
+      "floorNumber": "F3",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R053",
+      "roomNumber": "313",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -8.1,
+        "y": 33.1,
+        "z": -60.3
+      },
+      "floorNumber": "F3",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R054",
+      "roomNumber": "314",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -8.1,
+        "y": 33.1,
+        "z": -60.3
+      },
+      "floorNumber": "F3",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R055",
+      "roomNumber": "315",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -71.9,
+        "y": 33.1,
+        "z": -61
+      },
+      "floorNumber": "F3",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R056",
+      "roomNumber": "316",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -43.9,
+        "y": 33.1,
+        "z": -59
+      },
+      "floorNumber": "F3",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R057",
+      "roomNumber": "317",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -106.4,
+        "y": 33.1,
+        "z": -59
+      },
+      "floorNumber": "F3",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R058",
+      "roomNumber": "318",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -137.4,
+        "y": 33.1,
+        "z": -73
+      },
+      "floorNumber": "F3",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R059",
+      "roomNumber": "319",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -137.4,
+        "y": 33.1,
+        "z": -73
+      },
+      "floorNumber": "F3",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R060",
+      "roomNumber": "320",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -137.4,
+        "y": 33.1,
+        "z": -41.6
+      },
+      "floorNumber": "F3",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R061",
+      "roomNumber": "321",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -137.4,
+        "y": 33.1,
+        "z": 21.6
+      },
+      "floorNumber": "F3",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R062",
+      "roomNumber": "322",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -134.8,
+        "y": 33.1,
+        "z": 21.6
+      },
+      "floorNumber": "F3",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R063",
+      "roomNumber": "323",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -136.1,
+        "y": 33.1,
+        "z": 52.9
+      },
+      "floorNumber": "F3",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R064",
+      "roomNumber": "324",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -136.1,
+        "y": 33.1,
+        "z": 52.9
+      },
+      "floorNumber": "F3",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R065",
+      "roomNumber": "401",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 185.04,
+        "y": 43.900000000000006,
+        "z": 53.36
+      },
+      "floorNumber": "F4",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R066",
+      "roomNumber": "402",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 179.72,
+        "y": 43.900000000000006,
+        "z": 53.36
+      },
+      "floorNumber": "F4",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R067",
+      "roomNumber": "403",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 179.9,
+        "y": 43.900000000000006,
+        "z": 26.02
+      },
+      "floorNumber": "F4",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R068",
+      "roomNumber": "404",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 183.81,
+        "y": 43.900000000000006,
+        "z": 26.02
+      },
+      "floorNumber": "F4",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R069",
+      "roomNumber": "405",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 183.81,
+        "y": 43.900000000000006,
+        "z": -38.4
+      },
+      "floorNumber": "F4",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R070",
+      "roomNumber": "406",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 182.5,
+        "y": 43.900000000000006,
+        "z": -72.4
+      },
+      "floorNumber": "F4",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R071",
+      "roomNumber": "407",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 182.5,
+        "y": 43.900000000000006,
+        "z": -72.4
+      },
+      "floorNumber": "F4",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R072",
+      "roomNumber": "408",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 151.33,
+        "y": 43.900000000000006,
+        "z": -58.89
+      },
+      "floorNumber": "F4",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R073",
+      "roomNumber": "409",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 96.24,
+        "y": 43.900000000000006,
+        "z": -59.37
+      },
+      "floorNumber": "F4",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R074",
+      "roomNumber": "410",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 115.27,
+        "y": 43.900000000000006,
+        "z": -61.31
+      },
+      "floorNumber": "F4",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R075",
+      "roomNumber": "411",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 54.4,
+        "y": 43.900000000000006,
+        "z": -60.3
+      },
+      "floorNumber": "F4",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R076",
+      "roomNumber": "412",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 54.4,
+        "y": 43.900000000000006,
+        "z": -60.3
+      },
+      "floorNumber": "F4",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R077",
+      "roomNumber": "413",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -8.1,
+        "y": 43.900000000000006,
+        "z": -60.3
+      },
+      "floorNumber": "F4",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R078",
+      "roomNumber": "414",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -8.1,
+        "y": 43.900000000000006,
+        "z": -60.3
+      },
+      "floorNumber": "F4",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R079",
+      "roomNumber": "415",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -71.9,
+        "y": 43.900000000000006,
+        "z": -61
+      },
+      "floorNumber": "F4",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R080",
+      "roomNumber": "416",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -43.9,
+        "y": 43.900000000000006,
+        "z": -59
+      },
+      "floorNumber": "F4",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R081",
+      "roomNumber": "417",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -106.4,
+        "y": 43.900000000000006,
+        "z": -59
+      },
+      "floorNumber": "F4",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R082",
+      "roomNumber": "418",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -137.4,
+        "y": 43.900000000000006,
+        "z": -73
+      },
+      "floorNumber": "F4",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R083",
+      "roomNumber": "419",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -137.4,
+        "y": 43.900000000000006,
+        "z": -73
+      },
+      "floorNumber": "F4",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R084",
+      "roomNumber": "425",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -137.4,
+        "y": 43.900000000000006,
+        "z": -41.6
+      },
+      "floorNumber": "F4",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R085",
+      "roomNumber": "421",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -137.4,
+        "y": 43.900000000000006,
+        "z": 21.6
+      },
+      "floorNumber": "F4",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R086",
+      "roomNumber": "422",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -134.8,
+        "y": 43.900000000000006,
+        "z": 21.6
+      },
+      "floorNumber": "F4",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R087",
+      "roomNumber": "423",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -136.1,
+        "y": 43.900000000000006,
+        "z": 52.9
+      },
+      "floorNumber": "F4",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R088",
+      "roomNumber": "424",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -136.1,
+        "y": 43.900000000000006,
+        "z": 52.9
+      },
+      "floorNumber": "F4",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R089",
+      "roomNumber": "501",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 185.04,
+        "y": 54.7,
+        "z": 53.36
+      },
+      "floorNumber": "F5",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R090",
+      "roomNumber": "502",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 179.72,
+        "y": 54.7,
+        "z": 53.36
+      },
+      "floorNumber": "F5",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R091",
+      "roomNumber": "503",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 179.9,
+        "y": 54.7,
+        "z": 26.02
+      },
+      "floorNumber": "F5",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R092",
+      "roomNumber": "504",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 183.81,
+        "y": 54.7,
+        "z": 26.02
+      },
+      "floorNumber": "F5",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R093",
+      "roomNumber": "505",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 183.81,
+        "y": 54.7,
+        "z": -38.4
+      },
+      "floorNumber": "F5",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R094",
+      "roomNumber": "506",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 182.5,
+        "y": 54.7,
+        "z": -72.4
+      },
+      "floorNumber": "F5",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R095",
+      "roomNumber": "507",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 182.5,
+        "y": 54.7,
+        "z": -72.4
+      },
+      "floorNumber": "F5",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R096",
+      "roomNumber": "508",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 151.33,
+        "y": 54.7,
+        "z": -58.89
+      },
+      "floorNumber": "F5",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R097",
+      "roomNumber": "509",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 96.24,
+        "y": 54.7,
+        "z": -59.37
+      },
+      "floorNumber": "F5",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R098",
+      "roomNumber": "510",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 115.27,
+        "y": 54.7,
+        "z": -61.31
+      },
+      "floorNumber": "F5",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R099",
+      "roomNumber": "511",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 54.4,
+        "y": 54.7,
+        "z": -60.3
+      },
+      "floorNumber": "F5",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R100",
+      "roomNumber": "512",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 54.4,
+        "y": 54.7,
+        "z": -60.3
+      },
+      "floorNumber": "F5",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R101",
+      "roomNumber": "513",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -8.1,
+        "y": 54.7,
+        "z": -60.3
+      },
+      "floorNumber": "F5",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R102",
+      "roomNumber": "514",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -8.1,
+        "y": 54.7,
+        "z": -60.3
+      },
+      "floorNumber": "F5",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R103",
+      "roomNumber": "515",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -71.9,
+        "y": 54.7,
+        "z": -61
+      },
+      "floorNumber": "F5",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R104",
+      "roomNumber": "516",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -43.9,
+        "y": 54.7,
+        "z": -59
+      },
+      "floorNumber": "F5",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R105",
+      "roomNumber": "517",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -106.4,
+        "y": 54.7,
+        "z": -59
+      },
+      "floorNumber": "F5",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R106",
+      "roomNumber": "518",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -137.4,
+        "y": 54.7,
+        "z": -73
+      },
+      "floorNumber": "F5",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R107",
+      "roomNumber": "519",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -137.4,
+        "y": 54.7,
+        "z": -73
+      },
+      "floorNumber": "F5",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R108",
+      "roomNumber": "520",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -137.4,
+        "y": 54.7,
+        "z": -41.6
+      },
+      "floorNumber": "F5",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R109",
+      "roomNumber": "521",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -137.4,
+        "y": 54.7,
+        "z": 21.6
+      },
+      "floorNumber": "F5",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R110",
+      "roomNumber": "522",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -134.8,
+        "y": 54.7,
+        "z": 21.6
+      },
+      "floorNumber": "F5",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R111",
+      "roomNumber": "523",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -136.1,
+        "y": 54.7,
+        "z": 52.9
+      },
+      "floorNumber": "F5",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R112",
+      "roomNumber": "524",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -136.1,
+        "y": 54.7,
+        "z": 52.9
+      },
+      "floorNumber": "F5",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R113",
+      "roomNumber": "601",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 185.04,
+        "y": 65.5,
+        "z": 53.36
+      },
+      "floorNumber": "F6",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R114",
+      "roomNumber": "602",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 179.72,
+        "y": 65.5,
+        "z": 53.36
+      },
+      "floorNumber": "F6",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R115",
+      "roomNumber": "603",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 179.9,
+        "y": 65.5,
+        "z": 26.02
+      },
+      "floorNumber": "F6",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R116",
+      "roomNumber": "604",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 183.81,
+        "y": 65.5,
+        "z": 26.02
+      },
+      "floorNumber": "F6",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R117",
+      "roomNumber": "605",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 183.81,
+        "y": 65.5,
+        "z": -38.4
+      },
+      "floorNumber": "F6",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R118",
+      "roomNumber": "606",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 182.5,
+        "y": 65.5,
+        "z": -72.4
+      },
+      "floorNumber": "F6",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R119",
+      "roomNumber": "607",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 182.5,
+        "y": 65.5,
+        "z": -72.4
+      },
+      "floorNumber": "F6",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R120",
+      "roomNumber": "608",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 151.33,
+        "y": 65.5,
+        "z": -58.89
+      },
+      "floorNumber": "F6",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R121",
+      "roomNumber": "609",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 96.24,
+        "y": 65.5,
+        "z": -59.37
+      },
+      "floorNumber": "F6",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R122",
+      "roomNumber": "610",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 115.27,
+        "y": 65.5,
+        "z": -61.31
+      },
+      "floorNumber": "F6",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R123",
+      "roomNumber": "611",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 54.4,
+        "y": 65.5,
+        "z": -60.3
+      },
+      "floorNumber": "F6",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R124",
+      "roomNumber": "612",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 54.4,
+        "y": 65.5,
+        "z": -60.3
+      },
+      "floorNumber": "F6",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R125",
+      "roomNumber": "613",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -8.1,
+        "y": 65.5,
+        "z": -60.3
+      },
+      "floorNumber": "F6",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R126",
+      "roomNumber": "614",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -8.1,
+        "y": 65.5,
+        "z": -60.3
+      },
+      "floorNumber": "F6",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R127",
+      "roomNumber": "615",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -71.9,
+        "y": 65.5,
+        "z": -61
+      },
+      "floorNumber": "F6",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R128",
+      "roomNumber": "616",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -43.9,
+        "y": 65.5,
+        "z": -59
+      },
+      "floorNumber": "F6",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R129",
+      "roomNumber": "617",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -106.4,
+        "y": 65.5,
+        "z": -59
+      },
+      "floorNumber": "F6",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R130",
+      "roomNumber": "618",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -137.4,
+        "y": 65.5,
+        "z": -73
+      },
+      "floorNumber": "F6",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R131",
+      "roomNumber": "619",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -137.4,
+        "y": 65.5,
+        "z": -73
+      },
+      "floorNumber": "F6",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R132",
+      "roomNumber": "620",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -137.4,
+        "y": 65.5,
+        "z": -41.6
+      },
+      "floorNumber": "F6",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R133",
+      "roomNumber": "621",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -137.4,
+        "y": 65.5,
+        "z": 21.6
+      },
+      "floorNumber": "F6",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R134",
+      "roomNumber": "622",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -134.8,
+        "y": 65.5,
+        "z": 21.6
+      },
+      "floorNumber": "F6",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R135",
+      "roomNumber": "623",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -136.1,
+        "y": 65.5,
+        "z": 52.9
+      },
+      "floorNumber": "F6",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R136",
+      "roomNumber": "624",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -136.1,
+        "y": 65.5,
+        "z": 52.9
+      },
+      "floorNumber": "F6",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R137",
+      "roomNumber": "701",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 185.04,
+        "y": 76.3,
+        "z": 53.36
+      },
+      "floorNumber": "F7",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R138",
+      "roomNumber": "702",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 179.72,
+        "y": 76.3,
+        "z": 53.36
+      },
+      "floorNumber": "F7",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R139",
+      "roomNumber": "703",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 179.9,
+        "y": 76.3,
+        "z": 26.02
+      },
+      "floorNumber": "F7",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R140",
+      "roomNumber": "704",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 183.81,
+        "y": 76.3,
+        "z": 26.02
+      },
+      "floorNumber": "F7",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R141",
+      "roomNumber": "705",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 183.81,
+        "y": 76.3,
+        "z": -38.4
+      },
+      "floorNumber": "F7",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R142",
+      "roomNumber": "706",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 182.5,
+        "y": 76.3,
+        "z": -72.4
+      },
+      "floorNumber": "F7",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R143",
+      "roomNumber": "707",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 182.5,
+        "y": 76.3,
+        "z": -72.4
+      },
+      "floorNumber": "F7",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R144",
+      "roomNumber": "708",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 151.33,
+        "y": 76.3,
+        "z": -58.89
+      },
+      "floorNumber": "F7",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R145",
+      "roomNumber": "709",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 96.24,
+        "y": 76.3,
+        "z": -59.37
+      },
+      "floorNumber": "F7",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R146",
+      "roomNumber": "710",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 115.27,
+        "y": 76.3,
+        "z": -61.31
+      },
+      "floorNumber": "F7",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R147",
+      "roomNumber": "711",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 54.4,
+        "y": 76.3,
+        "z": -60.3
+      },
+      "floorNumber": "F7",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R148",
+      "roomNumber": "712",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 54.4,
+        "y": 76.3,
+        "z": -60.3
+      },
+      "floorNumber": "F7",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R149",
+      "roomNumber": "713",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -8.1,
+        "y": 76.3,
+        "z": -60.3
+      },
+      "floorNumber": "F7",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R150",
+      "roomNumber": "714",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -8.1,
+        "y": 76.3,
+        "z": -60.3
+      },
+      "floorNumber": "F7",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R151",
+      "roomNumber": "715",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -71.9,
+        "y": 76.3,
+        "z": -61
+      },
+      "floorNumber": "F7",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R152",
+      "roomNumber": "716",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -43.9,
+        "y": 76.3,
+        "z": -59
+      },
+      "floorNumber": "F7",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R153",
+      "roomNumber": "717",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -106.4,
+        "y": 76.3,
+        "z": -59
+      },
+      "floorNumber": "F7",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R154",
+      "roomNumber": "718",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -137.4,
+        "y": 76.3,
+        "z": -73
+      },
+      "floorNumber": "F7",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R155",
+      "roomNumber": "719",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -137.4,
+        "y": 76.3,
+        "z": -73
+      },
+      "floorNumber": "F7",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R156",
+      "roomNumber": "720",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -137.4,
+        "y": 76.3,
+        "z": -41.6
+      },
+      "floorNumber": "F7",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R157",
+      "roomNumber": "721",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -137.4,
+        "y": 76.3,
+        "z": 21.6
+      },
+      "floorNumber": "F7",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R158",
+      "roomNumber": "722",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -134.8,
+        "y": 76.3,
+        "z": 21.6
+      },
+      "floorNumber": "F7",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R159",
+      "roomNumber": "723",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -136.1,
+        "y": 76.3,
+        "z": 52.9
+      },
+      "floorNumber": "F7",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R160",
+      "roomNumber": "724",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -136.1,
+        "y": 76.3,
+        "z": 52.9
+      },
+      "floorNumber": "F7",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R161",
+      "roomNumber": "801",
+      "roomName": "802",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 185.04,
+        "y": 87.1,
+        "z": 53.36
+      },
+      "floorNumber": "F8",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R163",
+      "roomNumber": "803",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 179.9,
+        "y": 87.1,
+        "z": 26.02
+      },
+      "floorNumber": "F8",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R164",
+      "roomNumber": "804",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 183.81,
+        "y": 87.1,
+        "z": 26.02
+      },
+      "floorNumber": "F8",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R165",
+      "roomNumber": "805",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 183.81,
+        "y": 87.1,
+        "z": -38.4
+      },
+      "floorNumber": "F8",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R166",
+      "roomNumber": "806",
+      "roomName": "906",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 182.5,
+        "y": 87.1,
+        "z": -72.4
+      },
+      "floorNumber": "F8",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R167",
+      "roomNumber": "807",
+      "roomName": "907",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 182.5,
+        "y": 87.1,
+        "z": -72.4
+      },
+      "floorNumber": "F8",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R168",
+      "roomNumber": "808",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 151.33,
+        "y": 87.1,
+        "z": -58.89
+      },
+      "floorNumber": "F8",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R169",
+      "roomNumber": "809",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 96.24,
+        "y": 87.1,
+        "z": -59.37
+      },
+      "floorNumber": "F8",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R170",
+      "roomNumber": "810",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 115.27,
+        "y": 87.1,
+        "z": -61.31
+      },
+      "floorNumber": "F8",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R171",
+      "roomNumber": "811",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 54.4,
+        "y": 87.1,
+        "z": -60.3
+      },
+      "floorNumber": "F8",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R172",
+      "roomNumber": "812",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 54.4,
+        "y": 87.1,
+        "z": -60.3
+      },
+      "floorNumber": "F8",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R173",
+      "roomNumber": "813",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -8.1,
+        "y": 87.1,
+        "z": -60.3
+      },
+      "floorNumber": "F8",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R174",
+      "roomNumber": "814",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -8.1,
+        "y": 87.1,
+        "z": -60.3
+      },
+      "floorNumber": "F8",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R175",
+      "roomNumber": "815",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -71.9,
+        "y": 87.1,
+        "z": -61
+      },
+      "floorNumber": "F8",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R176",
+      "roomNumber": "816",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -43.9,
+        "y": 87.1,
+        "z": -59
+      },
+      "floorNumber": "F8",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R177",
+      "roomNumber": "817",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -106.4,
+        "y": 87.1,
+        "z": -59
+      },
+      "floorNumber": "F8",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R178",
+      "roomNumber": "818",
+      "roomName": "918",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -137.4,
+        "y": 87.1,
+        "z": -73
+      },
+      "floorNumber": "F8",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R179",
+      "roomNumber": "819",
+      "roomName": "919",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -137.4,
+        "y": 87.1,
+        "z": -73
+      },
+      "floorNumber": "F8",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R180",
+      "roomNumber": "820",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -137.4,
+        "y": 87.1,
+        "z": -41.6
+      },
+      "floorNumber": "F8",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R181",
+      "roomNumber": "821",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -137.4,
+        "y": 87.1,
+        "z": 21.6
+      },
+      "floorNumber": "F8",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R182",
+      "roomNumber": "822",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -134.8,
+        "y": 87.1,
+        "z": 21.6
+      },
+      "floorNumber": "F8",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R183",
+      "roomNumber": "823",
+      "roomName": "923",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -136.1,
+        "y": 87.1,
+        "z": 52.9
+      },
+      "floorNumber": "F8",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R184",
+      "roomNumber": "824",
+      "roomName": "924",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -136.1,
+        "y": 87.1,
+        "z": 52.9
+      },
+      "floorNumber": "F8",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R185",
+      "roomNumber": "901",
+      "roomName": "902",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 185.04,
+        "y": 97.89999999999999,
+        "z": 53.36
+      },
+      "floorNumber": "F9",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R187",
+      "roomNumber": "903",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 179.9,
+        "y": 97.89999999999999,
+        "z": 26.02
+      },
+      "floorNumber": "F9",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R188",
+      "roomNumber": "904",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 183.81,
+        "y": 97.89999999999999,
+        "z": 26.02
+      },
+      "floorNumber": "F9",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R189",
+      "roomNumber": "905",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 183.81,
+        "y": 97.89999999999999,
+        "z": -38.4
+      },
+      "floorNumber": "F9",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R192",
+      "roomNumber": "908",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 151.33,
+        "y": 97.89999999999999,
+        "z": -58.89
+      },
+      "floorNumber": "F9",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R193",
+      "roomNumber": "909",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 96.24,
+        "y": 97.89999999999999,
+        "z": -59.37
+      },
+      "floorNumber": "F9",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R194",
+      "roomNumber": "910",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 115.27,
+        "y": 97.89999999999999,
+        "z": -61.31
+      },
+      "floorNumber": "F9",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R195",
+      "roomNumber": "911",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 54.4,
+        "y": 97.89999999999999,
+        "z": -60.3
+      },
+      "floorNumber": "F9",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R196",
+      "roomNumber": "912",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": 54.4,
+        "y": 97.89999999999999,
+        "z": -60.3
+      },
+      "floorNumber": "F9",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R197",
+      "roomNumber": "913",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -8.1,
+        "y": 97.89999999999999,
+        "z": -60.3
+      },
+      "floorNumber": "F9",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R198",
+      "roomNumber": "914",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -8.1,
+        "y": 97.89999999999999,
+        "z": -60.3
+      },
+      "floorNumber": "F9",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R199",
+      "roomNumber": "915",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -71.9,
+        "y": 97.89999999999999,
+        "z": -61
+      },
+      "floorNumber": "F9",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R200",
+      "roomNumber": "916",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -43.9,
+        "y": 97.89999999999999,
+        "z": -59
+      },
+      "floorNumber": "F9",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R201",
+      "roomNumber": "917",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -106.4,
+        "y": 97.89999999999999,
+        "z": -59
+      },
+      "floorNumber": "F9",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R204",
+      "roomNumber": "920",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -137.4,
+        "y": 97.89999999999999,
+        "z": -41.6
+      },
+      "floorNumber": "F9",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R205",
+      "roomNumber": "921",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -137.4,
+        "y": 97.89999999999999,
+        "z": 21.6
+      },
+      "floorNumber": "F9",
+      "department": "",
+      "isAvailable": true
+    },
+    {
+      "uniqueID": "R206",
+      "roomNumber": "922",
+      "roomName": "",
+      "designatedPerson": "",
+      "comment": "",
+      "positionConstraints": {
+        "x": -134.8,
+        "y": 97.89999999999999,
+        "z": 21.6
+      },
+      "floorNumber": "F9",
+      "department": "",
+      "isAvailable": true
+    }
+  ]
 }
